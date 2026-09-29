@@ -1,1 +1,0 @@
-{"name":"Local: sum","url":"/Users/himel/Documents/SPL-SUM_202561201086/sum.c","tests":[{"id":1790654203836,"input":"34 45","output":"79"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/himel/Documents/SPL-SUM_202561201086/sum.c","group":"local","local":true}
